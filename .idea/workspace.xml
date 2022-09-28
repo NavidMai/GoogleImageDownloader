@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5ab5fa-583f-461c-bf27-5a356bd6351a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/readClassName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleImageCrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleImageCrawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scroll.py" afterDir="false" />
-    </list>
+    <list default="true" id="5b5ab5fa-583f-461c-bf27-5a356bd6351a" name="Changes" comment="support new selenium and target list downloder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664179926040</updated>
     </task>
+    <task id="LOCAL-00001" summary="support new selenium and target list downloder">
+      <created>1664329214248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664329214248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="support new selenium and target list downloder" />
+    <option name="LAST_COMMIT_MESSAGE" value="support new selenium and target list downloder" />
   </component>
 </project>
